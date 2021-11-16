@@ -1,0 +1,18 @@
+//Create a test plan to organize your testing, and create a total of 5 tests:
+
+//2 high level (broad) tests:
+
+//- The top home menu opens/works
+//- Menu links work
+
+//2 low level (specific) tests:
+
+//- The warrant ID field should accept 10 characters (modify wanted)
+//- Any field that has an incorrect entry will also be highlighted in red until emptied out or resubmitted
+
+
+//1 smoke/sanity test (basic run through of the whole site):
+//- All the pages loaded
+
+
+
